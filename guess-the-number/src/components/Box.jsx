@@ -59,7 +59,7 @@ const GuessTheNumberGame = () => {
     }
 
     setAttempts(attempts + 1);
-    setShowGif(true); // Set showGif to true when the user enters a valid guess
+    setShowGif(true); 
 
     if (Number(guess) === secretNumber) {
       setFeedback(`Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`);
