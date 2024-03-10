@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Spice&display=swap');
+
+ .title > h1{
+    text-align: center;
+    font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 10px;
+  font-size: 4rem;
+}
+.title:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
