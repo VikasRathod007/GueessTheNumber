@@ -1,11 +1,13 @@
-# GueessTheNumber
-This is a small project i did for my Sem 6 ISA,
-In this project the user enter a number between 1-100 and based on the user input a positive Gif or a negative Gif will appear.
-i have used the concept of Hooks in React to keep updating the State of Gifs
+# GuessTheNumber Project
 
-# TO run this file
-1:Download the folder
-2:open terminal and navigate to downloaded folder directory 
-3:run-npm install
-4:run-npm start
+This small project, developed for my Sem 6 ISA, allows the user to input a number between 1-100. Depending on the user input, a positive or negative GIF will appear. The project utilizes React and the concept of Hooks to manage and update the state of the GIFs.
+
+## How to Run:
+
+1. Download the project folder.
+2. Open the terminal and navigate to the downloaded folder directory.
+3. Run `npm install` to install the necessary dependencies.
+4. Run `npm start` to start the project.
+
+Now, you're all set to experience the GuessTheNumber project!
 
