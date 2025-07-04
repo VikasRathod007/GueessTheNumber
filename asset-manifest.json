@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GueessTheNumber/static/css/main.22c49f7d.css",
+    "main.js": "/GueessTheNumber/static/js/main.dff809b8.js",
+    "static/js/453.f7b97a6b.chunk.js": "/GueessTheNumber/static/js/453.f7b97a6b.chunk.js",
+    "static/media/dance.gif": "/GueessTheNumber/static/media/dance.906f55768b1c7f187406.gif",
+    "static/media/Borat.gif": "/GueessTheNumber/static/media/Borat.528d80ab159dc9df8a3b.gif",
+    "static/media/No.gif": "/GueessTheNumber/static/media/No.494080d2d483d057fcee.gif",
+    "static/media/sad.gif": "/GueessTheNumber/static/media/sad.efbbd89e3f78375bc5be.gif",
+    "static/media/First.gif": "/GueessTheNumber/static/media/First.9496c6a6aca02807edf8.gif",
+    "static/media/doubt.gif": "/GueessTheNumber/static/media/doubt.bed8204d1bd7a5d22377.gif",
+    "static/media/Really.gif": "/GueessTheNumber/static/media/Really.d2559f90dd259f67e3a9.gif",
+    "static/media/Yes.gif": "/GueessTheNumber/static/media/Yes.a907197a42ea1876cdd7.gif",
+    "static/media/GreatSuccess.gif": "/GueessTheNumber/static/media/GreatSuccess.7f4ae65a826cd6e03ae5.gif",
+    "index.html": "/GueessTheNumber/index.html",
+    "main.22c49f7d.css.map": "/GueessTheNumber/static/css/main.22c49f7d.css.map",
+    "main.dff809b8.js.map": "/GueessTheNumber/static/js/main.dff809b8.js.map",
+    "453.f7b97a6b.chunk.js.map": "/GueessTheNumber/static/js/453.f7b97a6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c49f7d.css",
+    "static/js/main.dff809b8.js"
+  ]
+}
